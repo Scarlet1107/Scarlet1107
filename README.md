@@ -4,30 +4,9 @@
   <a href="https://github.com/Scarlet1107/Scarlet1107/"　target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=Scarlet1107" alt="Scarlet1107" />
   </a>
-  <a href="http://twitter.com/gurusu_program"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://img.shields.io/twitter/follow/gurusu_program?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/Scarlet1107"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://img.shields.io/github/followers/Scarlet1107?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/Scarlet1107"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Scarlet1107?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/8851426/suguru-oki"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/8851426?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/Scarlet1107"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Scarlet1107/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Scarlet1107"　target="_blank" rel="noopener noreferrer">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Scarlet1107/contributions.svg" />
-  </a>
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/Scarlet1107"　target="_blank" rel="noopener noreferrer">
-    <img alt="twitter" width="30px" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_32.png" />
-  </a>
   <a href="https://qiita.com/Scarlet1107"　target="_blank" rel="noopener noreferrer">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
@@ -62,15 +41,12 @@
 
 #### Development Environment
 
-- Often Using Languages: PHP
-- Editor: VsCode → but I like Vim!!!
-- Shell: Zsh
-- Terminal: iTerm
-- OS: OSX
-- PC: Macbook Pro(M1)
-- Keyboard: Ergodox EZ, HHKB
-- Mouse: MagicTrackPad
-- SmartPhone: iPhone8
+- Often Using Languages: TypeScript
+- Editor: VsCode!
+- OS: Windows
+- Keyboard: Razer Ornata V3 Tenkeyless
+- Mouse: Razer DeathAdder Elite
+- SmartPhone: iPhone SE3
 
 #### Languages and Tools
 
