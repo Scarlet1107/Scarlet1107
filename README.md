@@ -15,7 +15,7 @@
 </h2>
 
 - [Catan Probability Calculator](https://catan-probability-calculator.vercel.app/)
-- [AR Letter](https://fuwa-letter.com/)
+- [Sugoi-mojisu-counter](https://app.scarlet7.net/word-counter)
 - [Aikido Website](https://yuuyuukai-aikido.com/)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Scarlet1107&theme=gruvbox)
