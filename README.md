@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Shogo.
+### 👋 Hi! I'm Scarlet.
 
 <p align="left">
   <a href="https://github.com/Scarlet1107/Scarlet1107/"　target="_blank" rel="noopener noreferrer">
