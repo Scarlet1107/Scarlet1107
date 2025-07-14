@@ -14,7 +14,8 @@
     My apps
 </h2>
 
-- [Catan Probability Calculator](https://catan-probability-calculator.vercel.app/)
+- [Paradia](https://paradia.scarlet7.net/)
+- [メンヘラTodo](https://menhera-todo.scarlet7.net/)
 - [Sugoi-mojisu-counter](https://app.scarlet7.net/word-counter)
 - [Aikido Website](https://yuuyuukai-aikido.com/)
 
